@@ -1,6 +1,7 @@
 {
 	"name": "file_metadata",
 	"version": "0.0.1",
+	"author": "Samuel",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
